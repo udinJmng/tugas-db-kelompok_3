@@ -58,3 +58,7 @@ VALUES
 ("Sistem Informasi", 1);
 
 -- dan sebagainya ...
+
+``` 
+# Disarankan make (mysql workbench / HeidiSQL)
+
